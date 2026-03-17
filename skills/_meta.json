@@ -1,0 +1,52 @@
+{
+  "name": "smart-web-search",
+  "version": "3.0.0",
+  "description": "智能 Web 搜索 v3.0 - 集成百度/谷歌等 12+ 引擎，支持实时新闻、多引擎聚合、广告过滤、内容去毒",
+  "author": "Jarvis",
+  "author_url": "https://github.com/davidme6",
+  "repository": "https://github.com/davidme6/openclaw-skills/tree/main/skills/smart-web-search",
+  "license": "MIT",
+  "tags": [
+    "search",
+    "web-search",
+    "smart",
+    "baidu",
+    "google",
+    "cn-search",
+    "ddg",
+    "duckduckgo",
+    "360search",
+    "sogou",
+    "bing",
+    "startpage",
+    "no-api-key",
+    "free",
+    "ad-filter",
+    "de-toxic",
+    "智能搜索",
+    "国内搜索",
+    "国际搜索",
+    "广告过滤",
+    "内容去毒"
+  ],
+  "triggers": [
+    "搜索",
+    "search",
+    "查找",
+    "find",
+    "web search",
+    "上网查",
+    "实时新闻",
+    "最新消息",
+    "today news",
+    "latest",
+    "去毒搜索",
+    "安全搜索",
+    "过滤广告"
+  ],
+  "requirements": {
+    "bins": ["curl"],
+    "env": []
+  },
+  "homepage": "https://github.com/davidme6/openclaw-skills"
+}
